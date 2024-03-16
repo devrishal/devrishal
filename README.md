@@ -19,7 +19,15 @@ Welcome to my GitHub! I'm passionate about building innovative software solution
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Projects
+### Projects I have contributed to
+- [Tarantool Cartridge Java](https://github.com/tarantool/cartridge-java)
+Tarantool Cartridge Java is a framework for creating stateful applications and microservices based on the Tarantool Database. As a contributor, I've been involved in enhancing the functionality and improving the codebase.
+
+- [Spring Boot](https://github.com/spring-projects/spring-boot)
+Spring Boot is an open-source Java-based framework used to create microservices. I've contributed to various aspects of Spring Boot, including bug fixes, feature enhancements, and documentation improvements.
+
+
+### My Personal Projects
 - [Barcode-Generator](https://github.com/devrishal/barcode-generator)
 This project is a Barcode Generator, designed to create various types of barcodes. It provides an easy-to-use interface for generating barcodes for different purposes. 
 - [SQL Engine Clone using Java](https://github.com/devrishal/JavaSqlEngine)
